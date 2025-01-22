@@ -27,6 +27,8 @@ Copy the config file which you have downloaded inside the config file in ~/kube 
 ```sh
 kubectl get nodes
 ```
+
+[Next →](minikube-install-linux.md)
 #[← Previous Day](../day40/README.md) | [Next Day →](../day42/README.md)
-Next →](../minikube-install-linux.md)
+
 
