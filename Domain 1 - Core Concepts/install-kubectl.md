@@ -29,6 +29,6 @@ kubectl get nodes
 ```
 
 [Next →](minikube-install-linux.md)
-#[← Previous Day](../day40/README.md) | [Next Day →](../day42/README.md)
+
 
 
