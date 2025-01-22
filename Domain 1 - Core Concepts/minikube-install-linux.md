@@ -2,7 +2,7 @@
 
 ### Note:
 
-For RedHat based systems, make sure that SELinux is not running. Verify with following command:
+For RedHat-based systems, make sure that SELinux is not running. Verify with the following command:
 ```sh
 getenforce
 ```
@@ -42,3 +42,5 @@ chmod +x minikube
 mv minikube /usr/local/bin
 kubectl get nodes 
 ```
+
+[← Previous Day](install-kubectl.md) | [Next Day →](minikube-install-windows.md)
