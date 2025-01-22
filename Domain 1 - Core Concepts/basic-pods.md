@@ -24,3 +24,5 @@ kubectl exec -it mywebserver -- ls -l /
 kubectl delete pod mywebserver
 ```
 
+[← Previous Day](minikube-install-windows.md) | [Next Day →](first-pod-yaml.md)
+
